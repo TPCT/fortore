@@ -1,0 +1,22 @@
+.info-modal{
+    height: 60vh;
+    width: 90%;
+    background-color: rgba(0, 0, 0, 0.8);
+    box-shadow: 0 0 10px 1px #DAA520;
+    border-radius: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.modal-image{
+    padding: 50px 50px 0 50px;
+    height: 80%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.modal-image img{
+    height: 100%;
+    width: 100%;
+}
